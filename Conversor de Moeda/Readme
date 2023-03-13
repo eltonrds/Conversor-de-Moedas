@@ -1,0 +1,24 @@
+🔨 Funcionalidades do projeto:
+Nesta oportunidade foi solicitado pela a ONE a criação de um conversor utilizando a linguagem Java.
+
+OBSERVAÇÃO: Lembrando que deve ser possível também converter de forma inversa.
+
+O primeiro conversor é de Moedas: Alguns Exemplos:
+
+Converter de Reais a Dólar
+Converter de Reais a Euro
+O segundo conversor é de Temperatura: Alguns exemplos:
+
+Celsiu (C) para Fahrenheit (F)
+Celsiu (C) para Kelvin (K)
+Fahrenheit (F) para Celsiu (C)
+O terceiro conversor é de Quilomentragem: Alguns exemplos:
+
+Quilometro (km) para Metro (m)
+Quilometro (km) para Centímetro (cm)
+💻 Tecnologias utilizadas no projeto:
+Java
+Swing
+Vs code
+Autor:
+Elton RDS
